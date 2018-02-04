@@ -1,0 +1,57 @@
+body{
+    margin:0;
+    padding:0;    /*Reset these so we're not using default of browser */
+    font-family: 'oswald', sans-serif;
+    
+}
+
+nav ul {
+        list-style: none;     /*Removes bullet points*/
+        background-color: #4a4a4f;    /*Charcoal*/
+        text-align: center;
+        margin:0;
+        padding:0;
+    
+}
+
+nav li{
+        font-size: 1.2em;
+        line-height: 40px;
+        height:40px;
+        display:inline-block;
+        margin-left:2.5%;
+        
+}
+
+nav a{
+    text-decoration: none;
+    color:#fff;
+    display: block;
+}
+
+nav a:hover{    /*When hovering over a file*/
+        background-color: #fff;
+        color:#444;
+    
+}
+
+.card{
+    float:left;
+    width:20%;
+    margin-left: 10%;
+    
+}
+
+.card a{
+    text-align: center;
+}
+
+img{
+    width:100%; /*It will be relative to the containing element which has a 
+                    overall page width of 20%*/
+
+}
+
+h1{
+    text-align:center;
+}
