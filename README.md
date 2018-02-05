@@ -5,7 +5,7 @@ Welcome!
 This project entailed creating my first website from scratch using 
 Cloud9 as my Integrated Development Environment (IDE). Here I used 
 HTML and CSS to create three distinct web pages with images of various
-programming tools and languages which, link to their corresponding
+programming tools and languages which link to their corresponding
 Wikipedia page. 
 
 In the process of creating this website I learned technologies such as
